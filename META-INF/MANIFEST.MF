@@ -1,0 +1,2 @@
+Main-Class: com.mylab.SimpleJmsApp
+Class-Path: /home/jan/jars/activemq-all-5.10.0.jar /home/jan/jars/mail.jar
